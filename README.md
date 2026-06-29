@@ -16,6 +16,7 @@ TVTestsrcからL-SMASHを利用（H264およびH265に対応すべく）
 TVtestsrc
 
 （注意）
+８Kのキャプチャーについて
 AviUtl32bitでは最大画像サイズを指定してもエラーにて表示できず、
-AviUtlExEdit2では大幅な改修が必要なため未対応。
+またAviUtlExEdit2では既存のものでは未対応のため大幅な改修が必要。
 
