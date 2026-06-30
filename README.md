@@ -2,7 +2,7 @@
 TSMemory ver0.4.0.1
 H.264（AVC) / H.265(HEVC) 対応版
 
-前バージョンを元に改修。前バージョンはこちら（https://github.com/norick-works/TSMemory-Kai）
+前バージョンを元に改修。前バージョンはこちら　https://github.com/norick-works/TSMemory-Kai
 
 TSMemoryがmpeg2-tsのみの対応だったがH264、H265も読み込めるように改修(理論上８Kも読み込める）
 非プログラマーにつきClaudeおよびGPTを駆使しての改修。
